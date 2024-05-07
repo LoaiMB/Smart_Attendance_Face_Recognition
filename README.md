@@ -5,7 +5,7 @@ Modernizing attendance tracking, this project integrates AI and computer vision 
 
 ## Installation
 
-1. Clone this repository: `git clone https://github.com/LoaiMB/Smart_Attendance.git`
+1. Clone this repository: `git clone https://github.com/LoaiMB/Smart_Attendance_Face_Recognition-.git`
 2. Navigate to the project directory: `cd Smart_Attendance`
 3. Create new virtual environment: `python -m venv venv` (Windows) or `python3 -m venv venv` (Linux/macOS)
 4. Activate the venv: `venv\Scripts\activate` (Windows) or `source venv/bin/activate` (Linux/macOS) 
