@@ -1,4 +1,4 @@
-# Smart_Attendance_Face_Recognition-
+# Smart_Attendance_Face_Recognition
 ## Introduction
 
 Modernizing attendance tracking, this project integrates AI and computer vision into the attendance process. By combining face detection and recognition, the system can accurately identify and log attendees, providing an efficient and convenient alternative to traditional methods.
@@ -6,7 +6,7 @@ Modernizing attendance tracking, this project integrates AI and computer vision 
 ## Installation
 
 1. Clone this repository: `git clone https://github.com/LoaiMB/Smart_Attendance_Face_Recognition-.git`
-2. Navigate to the project directory: `cd Smart_Attendance`
+2. Navigate to the project directory: `cd Smart_Attendance_Face_Recognition`
 3. Create new virtual environment: `python -m venv venv` (Windows) or `python3 -m venv venv` (Linux/macOS)
 4. Activate the venv: `venv\Scripts\activate` (Windows) or `source venv/bin/activate` (Linux/macOS) 
 5. Install the required dependencies: `pip install -r requirements.txt`
