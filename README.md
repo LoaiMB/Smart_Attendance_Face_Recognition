@@ -13,4 +13,10 @@ Modernizing attendance tracking, this project integrates AI and computer vision 
 
 ### Data Collection
 
-To start, run the `collect.py` script. This script employs the MediaPipe face detection model to identify faces in frames, which are then cropped and organized into separate folders per individual. This dataset will serve as the basis for training the face recognition model. Note: Remember to add your employee names to the list variable named "employee_names" in collect.py code. As a start, you can collect 5-10 images per person with a variety of angles and poses.
+To start, run the `collect.py` script. This script employs the MediaPipe face detection model to identify faces in frames, which are then cropped and organized into separate folders per individual. This dataset will serve as the basis for inferencing the face recognition model. Note: Remember to add your employee names to the list variable named "employee_names" in collect.py code. As a start, you can collect 5-10 images per person with a variety of angles and poses.
+
+### Model Architecture 
+
+### Model Traning 
+
+### Model Inferencing 
