@@ -22,5 +22,6 @@ To start, run the `collect.py` script. This script employs the MediaPipe face de
 <!-- Insert your project logo if available -->
 
 ### Model Traning 
-
+Run `train.py` to train the model for face recognition on the LFW dataset. Note: this code uses `dataset.py` which preprocess the data and organizes it before training. 
 ### Model Inferencing 
+For live infrence run the `inference.py` code. 
